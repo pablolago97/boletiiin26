@@ -76,44 +76,20 @@
                               <Group type="102" alignment="0" attributes="0">
                                   <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
                                   <Group type="103" groupAlignment="0" attributes="0">
-                                      <Group type="102" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                          <Component id="boton38" alignment="1" min="-2" pref="50" max="-2" attributes="0"/>
                                           <Group type="103" groupAlignment="0" attributes="0">
-                                              <Group type="103" alignment="0" groupAlignment="1" attributes="0">
-                                                  <Component id="boton38" alignment="1" min="-2" pref="50" max="-2" attributes="0"/>
-                                                  <Group type="103" groupAlignment="0" attributes="0">
-                                                      <Component id="boton28" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
-                                                      <Component id="boton33" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
-                                                  </Group>
-                                              </Group>
-                                              <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
-                                                  <Component id="boton48" alignment="0" pref="50" max="32767" attributes="0"/>
-                                                  <Component id="boton43" alignment="0" max="32767" attributes="0"/>
-                                              </Group>
-                                          </Group>
-                                          <Group type="103" groupAlignment="0" attributes="0">
-                                              <Group type="102" attributes="0">
-                                                  <EmptySpace min="-2" pref="170" max="-2" attributes="0"/>
-                                                  <Group type="103" groupAlignment="1" attributes="0">
-                                                      <Component id="boton40" min="-2" pref="50" max="-2" attributes="0"/>
-                                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                                          <Component id="boton30" pref="50" max="32767" attributes="0"/>
-                                                          <Component id="boton35" max="32767" attributes="0"/>
-                                                      </Group>
-                                                  </Group>
-                                              </Group>
-                                              <Group type="102" alignment="1" attributes="0">
-                                                  <EmptySpace max="-2" attributes="0"/>
-                                                  <Component id="boton45" min="-2" pref="50" max="-2" attributes="0"/>
-                                              </Group>
+                                              <Component id="boton28" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                              <Component id="boton33" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
                                           </Group>
                                       </Group>
-                                      <Group type="102" attributes="0">
-                                          <Component id="boton23" min="-2" pref="50" max="-2" attributes="0"/>
-                                          <EmptySpace min="-2" pref="170" max="-2" attributes="0"/>
-                                          <Component id="boton25" min="-2" pref="50" max="-2" attributes="0"/>
+                                      <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                          <Component id="boton48" alignment="0" pref="50" max="32767" attributes="0"/>
+                                          <Component id="boton43" alignment="0" max="32767" attributes="0"/>
                                       </Group>
+                                      <Component id="boton23" min="-2" pref="50" max="-2" attributes="0"/>
                                   </Group>
-                                  <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="265" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Group type="103" groupAlignment="0" attributes="0">
@@ -148,18 +124,41 @@
                                                   <Component id="boton14" alignment="1" max="32767" attributes="0"/>
                                               </Group>
                                           </Group>
-                                          <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
-                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                              <Component id="boton5" alignment="1" max="32767" attributes="0"/>
-                                              <Component id="boton10" alignment="1" pref="50" max="32767" attributes="0"/>
-                                              <Component id="boton15" alignment="0" max="32767" attributes="0"/>
-                                              <Component id="boton20" alignment="0" max="32767" attributes="0"/>
-                                          </Group>
-                                          <EmptySpace pref="121" max="32767" attributes="0"/>
-                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                              <Component id="desmarcar" max="32767" attributes="0"/>
-                                              <Component id="validar" alignment="0" max="32767" attributes="0"/>
-                                              <Component id="generar" alignment="0" max="32767" attributes="0"/>
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <EmptySpace max="32767" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Component id="boton40" min="-2" pref="50" max="-2" attributes="0"/>
+                                                      <Group type="102" attributes="0">
+                                                          <Component id="boton45" min="-2" pref="50" max="-2" attributes="0"/>
+                                                          <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                                                          <Component id="generar" min="-2" pref="83" max="-2" attributes="0"/>
+                                                          <EmptySpace max="-2" attributes="0"/>
+                                                          <Component id="validar" min="-2" pref="83" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Component id="boton35" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                                      <Component id="boton30" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                                      <Component id="boton20" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Group type="102" attributes="0">
+                                                          <Component id="boton25" min="-2" pref="50" max="-2" attributes="0"/>
+                                                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                                      </Group>
+                                                      <Group type="102" attributes="0">
+                                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                              <Component id="boton5" alignment="1" max="32767" attributes="0"/>
+                                                              <Component id="boton10" alignment="1" pref="50" max="32767" attributes="0"/>
+                                                              <Component id="boton15" alignment="0" max="32767" attributes="0"/>
+                                                          </Group>
+                                                          <EmptySpace pref="122" max="32767" attributes="0"/>
+                                                          <Component id="desmarcar" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                              </Group>
                                           </Group>
                                       </Group>
                                   </Group>
@@ -168,7 +167,7 @@
                       </Group>
                       <Component id="boton21" alignment="0" min="-2" max="-2" attributes="0"/>
                   </Group>
-                  <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -181,44 +180,48 @@
                       <Component id="Field2" alignment="3" min="-2" pref="79" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
-                  <Group type="103" groupAlignment="0" attributes="0">
-                      <Group type="102" alignment="0" attributes="0">
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="102" alignment="1" attributes="0">
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="boton1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="boton6" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" attributes="0">
                                   <Group type="103" groupAlignment="0" attributes="0">
                                       <Group type="103" alignment="1" groupAlignment="3" attributes="0">
                                           <Component id="boton3" alignment="3" min="-2" max="-2" attributes="0"/>
                                           <Component id="boton4" alignment="3" min="-2" max="-2" attributes="0"/>
                                           <Component id="boton5" alignment="3" min="-2" max="-2" attributes="0"/>
-                                          <Component id="generar" alignment="3" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                       <Component id="boton2" alignment="1" min="-2" max="-2" attributes="0"/>
                                   </Group>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Group type="103" groupAlignment="3" attributes="0">
-                                      <Component id="boton8" alignment="3" min="-2" max="-2" attributes="0"/>
-                                      <Component id="boton7" alignment="3" min="-2" max="-2" attributes="0"/>
-                                      <Component id="boton9" alignment="3" min="-2" max="-2" attributes="0"/>
-                                      <Component id="boton10" alignment="3" min="-2" max="-2" attributes="0"/>
-                                      <Component id="validar" alignment="3" min="-2" max="-2" attributes="0"/>
-                                  </Group>
                               </Group>
-                              <Group type="102" alignment="1" attributes="0">
-                                  <Component id="boton1" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="boton6" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="desmarcar" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
                               </Group>
                           </Group>
-                          <EmptySpace pref="13" max="32767" attributes="0"/>
                           <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="boton11" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton12" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton13" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton14" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton15" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="desmarcar" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="boton8" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="boton7" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="boton9" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="boton10" alignment="3" min="-2" max="-2" attributes="0"/>
                           </Group>
-                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="boton11" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="boton12" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="boton13" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="boton14" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="boton15" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
                           <Group type="103" groupAlignment="0" attributes="0">
                               <Group type="103" alignment="0" groupAlignment="3" attributes="0">
                                   <Component id="boton16" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -227,10 +230,9 @@
                               <Group type="103" alignment="0" groupAlignment="3" attributes="0">
                                   <Component id="boton18" alignment="3" min="-2" max="-2" attributes="0"/>
                                   <Component id="boton19" alignment="3" min="-2" max="-2" attributes="0"/>
-                                  <Component id="boton20" alignment="3" min="-2" max="-2" attributes="0"/>
                               </Group>
                           </Group>
-                          <EmptySpace max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="0" attributes="0">
                               <Component id="boton24" alignment="0" min="-2" max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="3" attributes="0">
@@ -240,24 +242,31 @@
                               <Component id="boton23" alignment="1" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>
-                      <Component id="boton25" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="boton25" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="boton20" min="-2" max="-2" attributes="0"/>
+                      </Group>
                   </Group>
+                  <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" alignment="0" attributes="0">
-                          <EmptySpace max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="boton29" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton30" alignment="3" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="0" attributes="0">
-                              <Component id="boton34" alignment="0" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton35" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Component id="boton29" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="boton34" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="boton30" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                              </Group>
                           </Group>
-                          <EmptySpace max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="3" attributes="0">
                               <Component id="boton39" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton40" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="boton35" alignment="3" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>
                       <Group type="102" alignment="0" attributes="0">
@@ -274,25 +283,36 @@
                               <Component id="boton33" alignment="3" min="-2" max="-2" attributes="0"/>
                           </Group>
                           <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="boton36" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton37" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton38" alignment="3" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="boton41" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton42" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton43" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton44" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton45" alignment="3" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                          <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="boton46" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton47" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton48" alignment="3" min="-2" max="-2" attributes="0"/>
-                              <Component id="boton49" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="boton36" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="boton37" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="boton38" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="boton41" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="boton42" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="boton43" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="boton44" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="boton46" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="boton47" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="boton48" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="boton49" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="generar" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="validar" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="boton45" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="boton40" min="-2" max="-2" attributes="0"/>
+                              </Group>
                           </Group>
                       </Group>
                   </Group>
@@ -304,6 +324,9 @@
       <SubComponents>
         <Component class="javax.swing.JButton" name="boton1">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="1"/>
           </Properties>
           <Events>
@@ -312,6 +335,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton2">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="2"/>
           </Properties>
           <Events>
@@ -320,6 +346,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton3">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="3"/>
           </Properties>
           <Events>
@@ -328,6 +357,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton4">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="4"/>
           </Properties>
           <Events>
@@ -336,6 +368,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton5">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="5"/>
           </Properties>
           <Events>
@@ -344,6 +379,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton6">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="6"/>
           </Properties>
           <Events>
@@ -352,6 +390,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton7">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="7"/>
           </Properties>
           <Events>
@@ -360,6 +401,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton8">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="8"/>
           </Properties>
           <Events>
@@ -368,6 +412,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton9">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="9"/>
           </Properties>
           <Events>
@@ -376,6 +423,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton10">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="10"/>
           </Properties>
           <Events>
@@ -384,6 +434,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton11">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="11"/>
           </Properties>
           <Events>
@@ -392,6 +445,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton12">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="12"/>
           </Properties>
           <Events>
@@ -400,6 +456,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton13">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="13"/>
           </Properties>
           <Events>
@@ -408,6 +467,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton14">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="14"/>
           </Properties>
           <Events>
@@ -416,6 +478,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton15">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="15"/>
           </Properties>
           <Events>
@@ -424,6 +489,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton16">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="16"/>
           </Properties>
           <Events>
@@ -432,6 +500,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton21">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="21"/>
           </Properties>
           <Events>
@@ -440,6 +511,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton27">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="27"/>
           </Properties>
           <Events>
@@ -448,6 +522,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton22">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="22"/>
           </Properties>
           <Events>
@@ -456,6 +533,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton17">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="17"/>
           </Properties>
           <Events>
@@ -464,6 +544,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton18">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="18"/>
           </Properties>
           <Events>
@@ -472,6 +555,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton23">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="23"/>
           </Properties>
           <Events>
@@ -480,6 +566,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton28">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="28"/>
           </Properties>
           <Events>
@@ -488,6 +577,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton29">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="29"/>
           </Properties>
           <Events>
@@ -496,6 +588,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton24">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="24"/>
           </Properties>
           <Events>
@@ -504,6 +599,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton19">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="19"/>
           </Properties>
           <Events>
@@ -512,6 +610,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton20">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="20"/>
           </Properties>
           <Events>
@@ -528,6 +629,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton30">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="30"/>
           </Properties>
           <Events>
@@ -536,6 +640,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton38">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="38"/>
           </Properties>
           <Events>
@@ -544,6 +651,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton45">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="45"/>
           </Properties>
           <Events>
@@ -552,6 +662,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton40">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="40"/>
           </Properties>
           <Events>
@@ -560,6 +673,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton43">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="43"/>
           </Properties>
           <Events>
@@ -568,6 +684,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton39">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="39"/>
           </Properties>
           <Events>
@@ -576,6 +695,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton31">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="31"/>
           </Properties>
           <Events>
@@ -584,6 +706,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton32">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="32"/>
           </Properties>
           <Events>
@@ -592,6 +717,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton33">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="33"/>
           </Properties>
           <Events>
@@ -600,6 +728,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton37">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="37"/>
           </Properties>
           <Events>
@@ -608,6 +739,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton34">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="34"/>
           </Properties>
           <Events>
@@ -616,6 +750,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton35">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="35"/>
           </Properties>
           <Events>
@@ -624,6 +761,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton44">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="44"/>
           </Properties>
           <Events>
@@ -632,6 +772,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton42">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="42"/>
           </Properties>
           <Events>
@@ -640,6 +783,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton36">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="36"/>
           </Properties>
           <Events>
@@ -648,6 +794,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton41">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="41"/>
           </Properties>
           <Events>
@@ -656,6 +805,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton26">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="26"/>
           </Properties>
           <Events>
@@ -664,6 +816,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton46">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="46"/>
           </Properties>
           <Events>
@@ -672,6 +827,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton48">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="48"/>
           </Properties>
           <Events>
@@ -680,6 +838,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton47">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="47"/>
           </Properties>
           <Events>
@@ -688,6 +849,9 @@
         </Component>
         <Component class="javax.swing.JButton" name="boton49">
           <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="ff" red="33" type="rgb"/>
+            </Property>
             <Property name="text" type="java.lang.String" value="49"/>
           </Properties>
           <Events>
